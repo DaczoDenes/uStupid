@@ -1,1 +1,9 @@
-const zero_p = document.getElementsByName("pp");
+const country_options = document.getElementsByClassName("country_option");
+
+console.log(country_options);
+
+country_options.forEach(element => {
+    console.log(element);
+});
+
+
