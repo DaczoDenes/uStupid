@@ -1,0 +1,20 @@
+here comes the text:
+
+1. Where are you from?:
+    yes    no
+
+    3p
+
+2. Are you sure?:
+    DroppDown -Guatemala
+              -Tokelau
+              -Jugoszlávia
+              -Russia
+              -Tokelau
+              -tokelau
+              -Alsó Szent Lászlósd-Felső
+              -Tokelau
+
+    4p
+
+3. 
