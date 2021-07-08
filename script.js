@@ -1,0 +1,1 @@
+const zero_p = document.getElementsByName("pp");
