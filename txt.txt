@@ -3,18 +3,18 @@ here comes the text:
 1. Where are you from?:
     yes    no
 
-    3p
+    3p     -1p
 
 2. Are you sure?:
-    DroppDown -Guatemala
-              -Tokelau
-              -Jugoszlávia
-              -Russia
-              -Tokelau
-              -tokelau
-              -Alsó Szent Lászlósd-Felső
-              -Tokelau
+    DroppDown -Guatemala                      2p
+              -Tokelau                        3p
+              -Jugoszlávia                    2p
+              -Russia                         5p
+              -Tokelau                        11p
+              -tokelau                        5p
+              -Alsó Szent Lászlósd-Felső      6p
+              -Tokelau                        7p
 
-    4p
-
-3. 
+3. Are you fetching the fechke?:
+    yes   no   sometimes 
+    4p    -8p  16p
