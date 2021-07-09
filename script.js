@@ -1,9 +1,16 @@
 const country_options = document.getElementsByClassName("country_option");
+const submit_btn = document.getElementById("submit");
 
-console.log(country_options);
+let country_options_arr = Array.prototype.slice.call(country_options);
 
-country_options.forEach(element => {
-    console.log(element);
-});
+function main_loop(){
+    console.log("in");
+    country_options_arr.forEach(function(element){
+        if(element.selected == true){
+            console.log(element.value);
+        }
+    });
+}
 
+submit_btn.onclick = main_loop;
 

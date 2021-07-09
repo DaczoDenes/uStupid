@@ -1,18 +1,18 @@
 h1 {
- color: red;
- background-color: green;
+    color: red;
+    background-color: green;
 }
 body{
- background-color: black;
+    background-color: black;
 }
 #country{
- background-color: teal;
+    background-color: teal;
 }
 label, input{
- background-color: teal;
- padding: 20px;
- color: aqua;
+    background-color: teal;
+    padding: 20px;
+    color: aqua;
 }
 #dobozWalaholFent{
- background-color: blue;
+    background-color: blue;
 }
